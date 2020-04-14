@@ -1,0 +1,3 @@
+name: rust-pulumi
+runtime: nodejs
+description: A minimal Rust Lambda Program
